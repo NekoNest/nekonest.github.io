@@ -1,2 +1,2 @@
 # NekoNestOfficialSite
-基于Bootstrap，和fontawesome
+基于Bootstrap，使用fontawesome
